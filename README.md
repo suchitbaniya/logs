@@ -1,2 +1,2 @@
 # logs
-code
+code changing log file to json format
